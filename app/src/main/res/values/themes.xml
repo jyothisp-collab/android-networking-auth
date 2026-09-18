@@ -1,0 +1,3 @@
+<resources>
+    <style name="Theme.NetworkAuthShowcase" parent="android:Theme.Material.Light.NoActionBar" />
+</resources>
